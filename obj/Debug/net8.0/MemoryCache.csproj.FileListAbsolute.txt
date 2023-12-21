@@ -1,0 +1,15 @@
+C:\Users\jesse\Documents\GitHub\MemoryCache\obj\Debug\net8.0\MemoryCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\Documents\GitHub\MemoryCache\obj\Debug\net8.0\MemoryCache.AssemblyInfoInputs.cache
+C:\Users\jesse\Documents\GitHub\MemoryCache\obj\Debug\net8.0\MemoryCache.AssemblyInfo.cs
+C:\Users\jesse\Documents\GitHub\MemoryCache\obj\Debug\net8.0\MemoryCache.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Documents\GitHub\MemoryCache\bin\Debug\net8.0\MemoryCache.exe
+C:\Users\jesse\Documents\GitHub\MemoryCache\bin\Debug\net8.0\MemoryCache.deps.json
+C:\Users\jesse\Documents\GitHub\MemoryCache\bin\Debug\net8.0\MemoryCache.runtimeconfig.json
+C:\Users\jesse\Documents\GitHub\MemoryCache\bin\Debug\net8.0\MemoryCache.dll
+C:\Users\jesse\Documents\GitHub\MemoryCache\bin\Debug\net8.0\MemoryCache.pdb
+C:\Users\jesse\Documents\GitHub\MemoryCache\obj\Debug\net8.0\MemoryCache.dll
+C:\Users\jesse\Documents\GitHub\MemoryCache\obj\Debug\net8.0\refint\MemoryCache.dll
+C:\Users\jesse\Documents\GitHub\MemoryCache\obj\Debug\net8.0\MemoryCache.pdb
+C:\Users\jesse\Documents\GitHub\MemoryCache\obj\Debug\net8.0\MemoryCache.genruntimeconfig.cache
+C:\Users\jesse\Documents\GitHub\MemoryCache\obj\Debug\net8.0\ref\MemoryCache.dll
+C:\Users\jesse\Documents\GitHub\MemoryCache\obj\Debug\net8.0\MemoryCache.sourcelink.json
